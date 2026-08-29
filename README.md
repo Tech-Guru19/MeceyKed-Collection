@@ -1,30 +1,32 @@
-# 👗 MeceyKed Collection
+# MeceyKed Collection
 
-An **e-commerce fashion collection** project — a Client + Server architecture for showcasing and selling curated fashion pieces.
+## Overview
 
-## ✨ Features
+An e-commerce fashion collection project featuring a Client and Server architecture for showcasing and selling curated fashion pieces.
 
-- 🛍️ **Product showcase** — fashion collection display
-- ⚙️ **Client + Server** — frontend and API in one repo
-- 🎨 **Custom design** — brand-focused styling
+## Key Features
 
-## 🧱 Tech Stack
+- **Product showcase:** Fashion collection display
+- **Client-server architecture:** Frontend and API in a single repository
+- **Brand-focused design:** Custom styling aligned with brand identity
+
+## Technology Stack
 
 - **Client:** React (Vite)
-- **Server:** Node.js + Express 5, CORS
+- **Server:** Node.js with Express 5 and CORS
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/MeceyKed-Collection.git
 cd MeceyKed-Collection
-# install & run server, then client (see package.json in each folder)
+# Install and run the server, then the client (refer to each package.json)
 ```
 
-## 🌐 Live
+## Live Deployment
 
 [View live](https://mecey-ked-collection-kfgi.vercel.app)
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
